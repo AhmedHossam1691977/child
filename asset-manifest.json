@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28b80fe8.css",
+    "main.js": "/static/js/main.d6827ada.js",
+    "static/js/453.b3e127a0.chunk.js": "/static/js/453.b3e127a0.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/kandy.jpg": "/static/media/kandy.6db2c090c6e28dca4a97.jpg",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/pepsi.jpg": "/static/media/pepsi.c1db5cc174f2ffadc457.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/moz.jpg": "/static/media/moz.b58fc9ee241cac21e07b.jpg",
+    "static/media/indomy.jpg": "/static/media/indomy.6c322bc42c53489195fa.jpg",
+    "static/media/pasta.jpg": "/static/media/pasta.728020b0546182963dae.jpg",
+    "static/media/fakha.jpg": "/static/media/fakha.c84a1d8fd4a848f8ac84.jpg",
+    "static/media/far5a.jpg": "/static/media/far5a.6ae09cdc93c83169eda9.jpg",
+    "static/media/zabady.jpg": "/static/media/zabady.999e98cf97e1ff7cd9be.jpg",
+    "static/media/steak.jpg": "/static/media/steak.c3af0a1e448e3b839b2f.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/salata.jpg": "/static/media/salata.e0b654b872258c565231.jpg",
+    "static/media/pezaa.jpg": "/static/media/pezaa.aa6f65e6442875da727f.jpg",
+    "static/media/tang.jpg": "/static/media/tang.143495faddced21fc479.jpg",
+    "static/media/mas.jpg": "/static/media/mas.364b183a738c62e8dfe0.jpg",
+    "static/media/cofe.jpg": "/static/media/cofe.8485b3eb36d9f111d3ff.jpg",
+    "static/media/bal7.jpg": "/static/media/bal7.391a27836934bfbad1c9.jpg",
+    "static/media/juice.jpg": "/static/media/juice.c7a394d5d5008c529ebf.jpg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/hotDog.jpg": "/static/media/hotDog.6772c6305cfb8d184ba5.jpg",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/index.html",
+    "main.28b80fe8.css.map": "/static/css/main.28b80fe8.css.map",
+    "main.d6827ada.js.map": "/static/js/main.d6827ada.js.map",
+    "453.b3e127a0.chunk.js.map": "/static/js/453.b3e127a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b80fe8.css",
+    "static/js/main.d6827ada.js"
+  ]
+}
